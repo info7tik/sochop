@@ -4,12 +4,12 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>fr.fshop</groupId>
-    <artifactId>fshop-api</artifactId>
+    <groupId>fr.sochop</groupId>
+    <artifactId>sochop-api</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>FShop API</name>
+    <name>Sochop API</name>
     <description>API for the FShop application</description>
 
     <parent>

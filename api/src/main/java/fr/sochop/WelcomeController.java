@@ -1,4 +1,4 @@
-package fr.fshop;
+package fr.sochop;
 
 import java.util.Map;
 
